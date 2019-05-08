@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.2"></a>
+## [3.0.2](https://github.com/evocateur/libnpmaccess/compare/v3.0.1...v3.0.2) (2019-05-08)
+
+
+### Bug Fixes
+
+* **deps:** Add explicit dependency on figgy-pudding ([0561347](https://github.com/evocateur/libnpmaccess/commit/0561347))
+
+
+
 <a name="3.0.1"></a>
 ## [3.0.1](https://github.com/npm/libnpmaccess/compare/v3.0.0...v3.0.1) (2018-11-12)
 
