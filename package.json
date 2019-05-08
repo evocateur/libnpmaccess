@@ -1,5 +1,5 @@
 {
-  "name": "libnpmaccess",
+  "name": "@evocateur/libnpmaccess",
   "version": "3.0.1",
   "description": "programmatic library for `npm access` commands",
   "author": {
@@ -25,12 +25,15 @@
     "weallbehave": "*",
     "weallcontribute": "*"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/libnpmaccess.git"
+    "url": "https://github.com/evocateur/libnpmaccess.git"
   },
-  "bugs": "https://github.com/npm/libnpmaccess/issues",
-  "homepage": "https://npmjs.com/package/libnpmaccess",
+  "bugs": "https://github.com/evocateur/libnpmaccess/issues",
+  "homepage": "https://npmjs.com/package/@evocateur/libnpmaccess",
   "dependencies": {
     "aproba": "^2.0.0",
     "figgy-pudding": "^3.5.1",
