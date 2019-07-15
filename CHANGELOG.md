@@ -1,6 +1,15 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [3.1.1](https://github.com/evocateur/libnpmaccess/compare/v3.1.0...v3.1.1) (2019-07-15)
+
+
+### Bug Fixes
+
+* Bump @evocateur/npm-registry-fetch ([e9df50f](https://github.com/evocateur/libnpmaccess/commit/e9df50f))
+
+
 
 <a name="3.1.0"></a>
 # [3.1.0](https://github.com/evocateur/libnpmaccess/compare/v3.0.2...v3.1.0) (2019-05-08)
